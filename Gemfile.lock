@@ -241,7 +241,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  better_errors (~> 2.6)
+  better_errors
   bootsnap (>= 1.4.2)
   bulma-rails (~> 0.8.0)
   byebug
